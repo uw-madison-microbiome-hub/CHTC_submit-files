@@ -1,5 +1,5 @@
 title: Microbiome Hub - CHTC-Submit_files repository
-description: A centralised repository to hold submit files created to perform different microbiome related data anlysis using the high through computing (CHTC)
+description: A centralised repository to hold submit files created to perform different microbiome related data anlysis using the high through computing (CHTC / HTcondor)
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate

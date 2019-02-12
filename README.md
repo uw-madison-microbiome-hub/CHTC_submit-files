@@ -5,7 +5,7 @@ Follow this [link](https://uw-madison-microbiome-hub.github.io/CHTC_submit-files
 ## Submit files
 
 #### [Run Many ANI comparisons on CHTC](https://github.com/sstevens2/ani_compare_dag)
-This workflow runs many ANI comparisons, pairwise within sets of directories. It will run all pairwise comparisons for the fasta files that end in *.fna within each directory. You need to change the extensions to .fna if they are .fa or .fasta. These files should only be the nucleotide sequences for the coding regions. No tRNA or rRNA gene sequences should be included.  
+This workflow runs many ANI comparisons, pairwise within sets of directories. It will run all pairwise comparisons for the fasta files that end in *.fna within each directory.    
 Contact [Sarah Stevens](mailto:sarah.stevens@wisc.edu)
 
 #### [Pipeline for running checkm on UW-Madison's CHTC or an HTCondor system](https://github.com/sstevens2/checkm-chtc-pipeline)

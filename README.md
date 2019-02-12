@@ -2,6 +2,4 @@ The purpose of this repsoitory is to consolidate numerous CHTC submit files crea
 
 Follow this [link](https://uw-madison-microbiome-hub.github.io/CHTC_submit-files/CONTRIBUTING) to find a template on how to add scripts to this site.  
 
-If you already host your submit files in your personal or lab github pages. Please follow this link to add to find an template and submit an pull request to the README.md
 
-If you have submit files. But do not have a Github page, follow this link and upload the files through a pull request to this repository and make it accessiblt ot everyone.  

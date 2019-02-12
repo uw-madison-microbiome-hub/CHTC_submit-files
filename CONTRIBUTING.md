@@ -15,11 +15,11 @@ Please add the following information.
 ```
 ### [XXX - github](LINK TO GITHUB PAGE) - (optional)
 
-#### [pipeline/script 1](LINK TO GitHub REPO)
+#### [submit file 1](LINK TO GitHub REPO)
 Description (1 - 3 sentences)
 Contact [Name of contact](mailto:xxxx@wisc.edu) 
 
-#### [pipeline/script 2](LINK TO GitHub REPO)
+#### [submit file 2](LINK TO GitHub REPO)
 Description (1 - 3 sentences)
 Contact [Name of contact](mailto:xxxx@wisc.edu)
 ```
